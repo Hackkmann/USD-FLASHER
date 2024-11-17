@@ -15,7 +15,7 @@ pkg update && pkg upgrade
 
 Install Node.js, npm (Node package manager), and Git in Termux:
 
-pkg install nodejs git npm
+pkg install nodejs git 
 
 # Once Node.js and npm are installed, navigate to your project directory and run:
 
@@ -25,7 +25,7 @@ npm install chalk ora
 
 Clone the FLASH-USDT repository :
 
-https://github.com/Hackkmann/USD-FLASHER.git
+git clone https://github.com/Hackkmann/USD-FLASHER.git
 
 # 4. Navigate to the Project Directory
 
